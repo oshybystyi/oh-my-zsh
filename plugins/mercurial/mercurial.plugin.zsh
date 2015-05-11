@@ -1,6 +1,7 @@
 # Mercurial
 alias hgc='hg commit'
 alias hgb='hg branch'
+alias hga='hg add'
 alias hgba='hg branches'
 alias hgbk='hg bookmarks'
 alias hgco='hg checkout'
